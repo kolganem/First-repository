@@ -1,3 +1,3 @@
 #### First-repository
 
-#### The very first uploaded project. Simple example of Library.
+#### The first uploaded project.
